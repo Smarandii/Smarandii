@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **telegram bots, python**
 
-- 📫 How to reach me **olegsmarandi@gmail.com | t.me/Olejius**
+- 📫 How to reach me **olegsmarandi@gmail.com | [@Olejius](https://t.me/Olejius)**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/12KH-qJLUMPOyQnGUxvPSM2seNSiJb6dl/view?usp=share_link](https://drive.google.com/file/d/12KH-qJLUMPOyQnGUxvPSM2seNSiJb6dl/view?usp=share_link)
 
