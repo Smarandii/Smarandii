@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **telegram bots, python**
 
-- 📫 How to reach me **olegsmarandi@gmail.com | [@Olejius](https://t.me/Olejius)**
-
 - 📄 Know about my experiences [Russian Resume](https://drive.google.com/file/d/12KH-qJLUMPOyQnGUxvPSM2seNSiJb6dl/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
