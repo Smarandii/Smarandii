@@ -11,6 +11,8 @@
 
 - 📄 Know about my experiences [Russian Resume](https://drive.google.com/file/d/12KH-qJLUMPOyQnGUxvPSM2seNSiJb6dl/view?usp=share_link)
 
+- 📫 How to reach me olegsmarandi@gmail.com | [@Olejius](https://t.me/Olejius)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/oleg-smarandi-b94792201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oleg-smarandi-b94792201" height="30" width="40" /></a>
