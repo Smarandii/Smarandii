@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smarandii&label=Profile%20views&color=0e75b6&style=flat" alt="smarandii" /> </p>
 
-- 🔭 I’m currently working on [LM AD Renderer](https://github.com/Smarandii/lm_digital_ad_renderer)
+- 🔭 I’m currently working on [InvestSmartAcademy](https://github.com/Smarandii/InvestSmartAcademy)
 
 - 🌱 I’m currently learning **PHP, Symfony**
 
