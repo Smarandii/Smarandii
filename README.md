@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smarandii&label=Profile%20views&color=0e75b6&style=flat" alt="smarandii" /> </p>
 
-- 🔭 I’m currently working on [InvestSmartAcademy](https://github.com/Smarandii/InvestSmartAcademy)
+- 🔭 I’m currently working on [Fill Immigration Forms From Telegram Bot](https://github.com/Smarandii/fill_pdf_form_telegram_bot)
 
-- 🌱 I’m currently learning **PHP, Symfony**
+- 🌱 I’m currently learning **Rasa, Strapi**
 
 - 💬 Ask me about **telegram bots, python**
 
