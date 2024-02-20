@@ -3,14 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smarandii&label=Profile%20views&color=0e75b6&style=flat" alt="smarandii" /> </p>
 
-- 🔭 I’m currently working on [Fill Immigration Forms From Telegram Bot](https://github.com/Smarandii/fill_pdf_form_telegram_bot)
-
-- 🌱 I’m currently learning **Rasa, Strapi**
-
-- 💬 Ask me about **telegram bots, python**
-
-- 📄 Know about my experiences [Russian Resume](https://drive.google.com/file/d/12KH-qJLUMPOyQnGUxvPSM2seNSiJb6dl/view?usp=share_link)
-
 - 📫 How to reach me olegsmarandi@gmail.com | [@Olejius](https://t.me/Olejius)
 
 <h3 align="left">Connect with me:</h3>
