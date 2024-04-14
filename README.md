@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=smarandii&label=Profile%20views&color=0e75b6&style=flat" alt="smarandii" /> </p>
 
-- 📫 How to reach me olegsmarandi@gmail.com | [@Olejius](https://t.me/Olejius)
+- 📫 How to reach me olegsmarandi@gmail.com | [@olegsmarandi](https://t.me/olegsmarandi)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
