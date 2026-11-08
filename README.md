@@ -1,7 +1,57 @@
-<h3 align="center">Backend developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=smarandii&label=Profile%20views&color=0e75b6&style=flat" alt="smarandii" /> </p>
+ <h1 align="center">Oleg Smarandi</h1>
 
-Reach me [telegram](https://t.me/olegsmarandi)
+<p align="center">
+  <strong>Software Engineer</strong> · Backend Systems · Applied AI
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="center">
+  Building dependable software for complex, real-world workflows.
+</p>
+
+<p align="center">
+  <a href="https://t.me/olegsmarandi">Telegram</a> ·
+  <a href="https://github.com/Smarandii?tab=repositories">Projects</a>
+</p>
+
+---
+
+### About
+
+I'm a software engineer focused on backend systems, data infrastructure, and applied AI. I work across the stack of a problem: from interpreting messy inputs to designing the services, state, and operational safeguards that make a solution dependable.
+
+My background spans hands-on backend and data engineering, self-hosted LLM infrastructure, and leading an R&D/AI engineering team. I care about software that can be understood, tested, operated, and improved long after its first release.
+
+### Selected work
+
+**[Cautious Crypto Bro](https://github.com/Smarandii/cautious-crypto-bro)**  
+*Multimodal AI · Deterministic execution · Human oversight*
+
+A Telegram-to-Bybit Demo system that interprets trading ideas from text and images, then turns them into structured plans. LLMs handle interpretation; deterministic code handles risk limits and execution. Built around durable state, recovery, and explicit operator control. **Demo trading only.**
+
+**[ReClip + ASR Pipeline](https://github.com/Smarandii/reclip-with-asr-pipeline)**  
+*Local-first media processing · Docker · CUDA · Whisper*
+
+A self-hosted media downloader and transcription workflow with a persistent job queue, GPU-backed speech recognition, retained artifacts, and checkpoint-based recovery. Designed for reproducible processing without a hosted AI service.
+
+**[Subwhisperer](https://github.com/Smarandii/subwhisperer)**  
+*Python CLI · FFmpeg · Whisper*
+
+An open-source tool that extracts audio from video, transcribes it locally, and produces timestamped subtitles and transcripts. Includes silence-aware chunking and a straightforward command-line interface.
+
+### Technical focus
+
+- **Backend engineering:** Python, FastAPI, asynchronous services, API design, SQL.
+- **Data & infrastructure:** PostgreSQL, SQLite, Redis, Kafka, ClickHouse, Docker, Kubernetes, Linux.
+- **Applied AI:** LLM integrations, multimodal extraction, speech recognition, evaluation, and human-in-the-loop workflows.
+
+### Engineering approach
+
+I favor small interfaces, explicit constraints, observable behavior, and tests at meaningful system boundaries. The interesting work often begins where the happy path ends: interruptions, retries, ambiguous inputs, and external services that fail.
+
+**Make the complex understandable. Make the important behavior predictable.**
+
+---
+
+<p align="center">
+  <a href="https://t.me/olegsmarandi">Get in touch on Telegram</a>
+</p>
